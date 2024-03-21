@@ -39,7 +39,7 @@
   <a href="https://wa.me/+918456095283" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.hackerrank.com/Sulagna Samanwita Das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Sulagna Samanwita Das" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/sulagnasamanwit1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Sulagna Samanwita Das" height="30" width="40" /></a>
 </div>
 
 
